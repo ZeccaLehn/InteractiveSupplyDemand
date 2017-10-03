@@ -1,5 +1,5 @@
 
-## Loads Function 
+#### Loads Function 
 library(manipulate)
 supplyDemand <- function(sInter, dInter){
 
